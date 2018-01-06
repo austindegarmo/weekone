@@ -1,0 +1,30 @@
+p {
+	font-family: 'Patrick Hand SC', cursive;
+	font-weight: bold;
+}
+
+#kittens {
+	font-family: 'Indie Flower', cursive;
+}
+
+.firsthead {
+	font-size: 5px;
+	font-family: calibri;
+}
+
+.thirdhead {
+	
+	font-size: 30px;
+	font-family: comic-sans;
+}
+
+.fourthead {
+	font size: 10px;
+	font-family: airial;
+}
+
+p {
+
+	font-size: 80px;
+	font-family: comic-sans;
+}
